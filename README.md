@@ -15,6 +15,8 @@ Awesome collection of awesome lists of libraries, tools, frameworks and software
 
 ## Go
 
+* [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
 ## Java
 
 ## PHP
