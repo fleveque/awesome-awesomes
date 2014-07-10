@@ -3,6 +3,7 @@ awesome-awesomes
 
 Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language :D
 
+* [Clojure](#clojure)
 * [Erlang](#erlang)
 * [Go](#go)
 * [Java](#java)
@@ -10,6 +11,9 @@ Awesome collection of awesome lists of libraries, tools, frameworks and software
 * [Python](#python)
 * [Ruby](#ruby)
 
+## Clojure
+
+* [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome clojure libraries and software
 
 ## Erlang
 
