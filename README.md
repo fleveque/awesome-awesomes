@@ -55,6 +55,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Awesome Ruby - by @markets](https://github.com/markets/awesome-ruby) - A collection of awesome Ruby libraries, tools, frameworks and software
 * [Awesome Ruby - by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby) - A curated list of awesome Ruby frameworks, libraries and resources
+* [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks) - A list of ruby development resources I've collected
 
 ## Scala
 
@@ -63,8 +64,15 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 # Frameworks, platforms, etc
 
+* [Frontend](#frontend)
 * [Node.js](#node.js)
 * [Ruby on Rails](#ruby-on-rails)
+
+## Frontend
+
+* [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for Front End Developers
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+* [Master List of HTML5, JavaScript, and CSS Resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources) - Intent of sharing a list of HTML5, JavaScript, and CSS3 resources that were found very useful
 
 ## Node.js
 
@@ -78,12 +86,17 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 # Related and useful
 
 * [Editors](#editors)
+* [Environments](#environments)
 * [Shell](#shell)
 * [SysAdmin](#sysadmin)
 * [Talks](#talks)
 * [Awesomes](#awesomes)
 
 ## Editors
+
+## Environments
+
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
 ## Shell
 
