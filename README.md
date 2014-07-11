@@ -5,6 +5,9 @@ Awesome collection of awesome lists of libraries, tools, frameworks and software
 
 Feel free to add new lists or categories! Remember, it's not mandatory that name starts with awesome- ;)
 
+[Programming languages](#programming-languages) | [Frameworks, platforms, etc](#frameworks-platforms-etc) | [Related and useful](#related-and-useful)
+
+
 # Programming languages
 
 * [Clojure](#clojure)
@@ -62,6 +65,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Awesome Scala](https://github.com/lauris/awesome-scala) - A curated list of awesome Scala frameworks, libraries and software
 
 
+
 # Frameworks, platforms, etc
 
 * [Frontend](#frontend)
@@ -81,6 +85,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Ruby on Rails
 
 * [Awesome Rails](https://github.com/dpaluy/awesome-rails) - A curated list of amazingly awesome open source rails related resources
+
 
 
 # Related and useful
