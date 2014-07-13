@@ -71,6 +71,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Frontend](#frontend)
 * [Node.js](#node.js)
 * [Ruby on Rails](#ruby-on-rails)
+* [Mobile](#mobile)
 
 ## Frontend
 
@@ -86,7 +87,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Awesome Rails](https://github.com/dpaluy/awesome-rails) - A curated list of amazingly awesome open source rails related resources
 
+## Mobile
 
+* [Android](https://github.com/JStumpp/awesome-android)
+* [iOS](https://github.com/vsouza/awesome-ios)
 
 # Related and useful
 
