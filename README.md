@@ -99,6 +99,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Shell](#shell)
 * [SysAdmin](#sysadmin)
 * [Talks](#talks)
+* [MachineLearning](#machinelearning)
 * [Awesomes](#awesomes)
 
 ## Editors
@@ -118,6 +119,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Talks
 
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) - List of online talks that you would love to watch
+
+## MachineLearning
+
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software (by language).
 
 ## Awesomes
 
