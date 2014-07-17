@@ -21,6 +21,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Python](#python)
 * [Ruby](#ruby)
 * [Scala](#scala)
+* [Swift](#swift)
 
 ## Clojure
 
@@ -64,7 +65,9 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Awesome Scala](https://github.com/lauris/awesome-scala) - A curated list of awesome Scala frameworks, libraries and software
 
+## Swift
 
+* [Awesome Swift](https://awesome-swift.zeef.com/robin.eggenkamp) - A curated list of Swift documentation, tutorials, blogs and more
 
 # Frameworks, platforms, etc
 
