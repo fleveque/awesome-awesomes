@@ -21,6 +21,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Python](#python)
 * [Ruby](#ruby)
 * [Scala](#scala)
+* [Haskell](#haskell)
 
 ## Clojure
 
@@ -64,6 +65,9 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Awesome Scala](https://github.com/lauris/awesome-scala) - A curated list of awesome Scala frameworks, libraries and software
 
+## Haskell
+
+* [Awesome Haskell](https://github.com/krispo/awesome-haskell) - A curated list of awesome Haskell frameworks, libraries and software
 
 
 # Frameworks, platforms, etc
