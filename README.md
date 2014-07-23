@@ -15,13 +15,13 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Elixir](#elixir)
 * [Erlang](#erlang)
 * [Go](#go)
+* [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Scala](#scala)
-* [Haskell](#haskell)
 
 ## Clojure
 
@@ -40,6 +40,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Go
 
 * [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+## Haskell
+
+* [Awesome Haskell](https://github.com/krispo/awesome-haskell) - A curated list of awesome Haskell frameworks, libraries and software
 
 ## Java
 
@@ -64,10 +68,6 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Scala
 
 * [Awesome Scala](https://github.com/lauris/awesome-scala) - A curated list of awesome Scala frameworks, libraries and software
-
-## Haskell
-
-* [Awesome Haskell](https://github.com/krispo/awesome-haskell) - A curated list of awesome Haskell frameworks, libraries and software
 
 
 # Frameworks, platforms, etc
