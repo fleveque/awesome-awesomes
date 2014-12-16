@@ -10,6 +10,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 # Programming languages
 
+* [C] (#c)
 * [Clojure](#clojure)
 * [D](#D)
 * [Elixir](#elixir)
@@ -22,6 +23,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Python](#python)
 * [Ruby](#ruby)
 * [Scala](#scala)
+
+## C
+
+* [Awesome C](https://github.com/kozross/awesome-c)
 
 ## Clojure
 
