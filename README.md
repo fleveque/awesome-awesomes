@@ -27,7 +27,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 ## C
 
-* [Awesome C](https://github.com/kozross/awesome-c)
+* [Awesome C](https://github.com/kozross/awesome-c) - A curated list of awesome C libraries, frameworks and other shinies.
 
 ## Clojure
 
