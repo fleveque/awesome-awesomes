@@ -10,7 +10,9 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 # Programming languages
 
+* [C] (#c)
 * [Clojure](#clojure)
+* [Common Lisp](#common lisp)
 * [D](#D)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -23,9 +25,17 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Ruby](#ruby)
 * [Scala](#scala)
 
+## C
+
+* [Awesome C](https://github.com/kozross/awesome-c) - A curated list of awesome C libraries, frameworks and other shinies.
+
 ## Clojure
 
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome clojure libraries and software
+
+## Common Lisp
+
+* [Awesome Common Lisp](https://github.com/kozross/awesome-cl) - A curated list of awesome Common Lisp libraries, software and other shinies.
 
 ## D
 
