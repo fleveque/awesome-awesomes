@@ -56,6 +56,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Awesome Haskell](https://github.com/krispo/awesome-haskell) - A curated list of awesome Haskell frameworks, libraries and software
 
 ## Java
+* [Awesome Java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software
 
 ## JavaScript
 
