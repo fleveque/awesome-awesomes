@@ -90,6 +90,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Frontend](#frontend)
 * [Node.js](#node.js)
+* [React](#react)
 * [Ruby on Rails](#ruby-on-rails)
 * [Mobile](#mobile)
 
@@ -102,6 +103,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Node.js
 
 * [Awesome Node.js](https://github.com/vndmtrx/awesome-nodejs) - A curated list of astonishing Node.js frameworks, libraries and resources
+
+## React
+
+* [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome React tools, resources, videos and shiny things.
 
 ## Ruby on Rails
 
