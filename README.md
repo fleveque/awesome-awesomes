@@ -102,7 +102,8 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 ## Node.js
 
-* [Awesome Node.js](https://github.com/vndmtrx/awesome-nodejs) - A curated list of astonishing Node.js frameworks, libraries and resources
+* [Awesome Node.js (vndmtrx)](https://github.com/vndmtrx/awesome-nodejs) - A curated list of astonishing Node.js frameworks, libraries and resources
+* [Awesome Node.js (sindresorhus)](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources
 
 ## React
 
