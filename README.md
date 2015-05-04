@@ -23,6 +23,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
+* [R] (#R)
 * [Ruby](#ruby)
 * [Scala](#scala)
 
@@ -74,6 +75,9 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Python
 
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software
+
+## R
+* [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R libraries and software
 
 ## Ruby
 
