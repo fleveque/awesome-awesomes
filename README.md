@@ -34,7 +34,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## <a name="cplusplus">C++</a>
 
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.
- 
+
 ## Clojure
 
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome clojure libraries and software
