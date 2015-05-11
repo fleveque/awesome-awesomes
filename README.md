@@ -103,6 +103,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for Front End Developers
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
 * [Master List of HTML5, JavaScript, and CSS Resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources) - Intent of sharing a list of HTML5, JavaScript, and CSS3 resources that were found very useful
+* [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
 ## Node.js
 
