@@ -25,6 +25,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Python](#python)
 * [R] (#R)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 
 ## C
@@ -84,6 +85,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Awesome Ruby - by @markets](https://github.com/markets/awesome-ruby) - A collection of awesome Ruby libraries, tools, frameworks and software
 * [Awesome Ruby - by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby) - A curated list of awesome Ruby frameworks, libraries and resources
 * [Ruby Development Bookmarks](https://github.com/saberma/ruby-dev-bookmarks) - A list of ruby development resources I've collected
+
+## Rust
+
+* [Awesome Rust](https://github.com/kud1ing/awesome-rust) - A curated list of awesome Rust code and resources
 
 ## Scala
 
