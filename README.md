@@ -154,6 +154,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## MachineLearning
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software (by language).
+* [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ## Awesomes
 
