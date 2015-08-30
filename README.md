@@ -10,6 +10,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 # Programming languages
 
+* [AutoIt](#autoit)
 * [C] (#c)
 * [C++](#cplusplus)
 * [Clojure](#clojure)
@@ -26,6 +27,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [R] (#R)
 * [Ruby](#ruby)
 * [Scala](#scala)
+
+## AutoIt
+
+* [Awesome AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
 
 ## C
 
