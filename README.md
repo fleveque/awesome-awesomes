@@ -127,6 +127,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Editors](#editors)
 * [Environments](#environments)
+* [Internet of Things](#internet-of-things)
 * [Shell](#shell)
 * [SysAdmin](#sysadmin)
 * [Talks](#talks)
@@ -138,6 +139,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Environments
 
 * [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
+
+## Internet of Things
+
+* [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 
 ## Shell
 
