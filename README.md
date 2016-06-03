@@ -158,6 +158,8 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 ## Editors
 
+* [Awesome SublimeText](https://github.com/JaredCubilla/sublime) - A curated list of awesome SublimeText packages & snippets.
+
 ## Environments
 
 * [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
