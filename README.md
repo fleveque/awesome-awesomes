@@ -16,6 +16,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Clojure](#clojure)
 * [Common Lisp](#common lisp)
 * [D](#D)
+* [DotNet](#DotNet)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
 * [Go](#go)
@@ -52,6 +53,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## D
 
 * [Awesome D](https://github.com/zhaopuming/awesome-d) - A curated list of awesome D documents, frameworks, libraries and software
+
+## DotNet
+
+* [Awesome Dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Elixir
 
