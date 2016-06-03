@@ -102,6 +102,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [React](#react)
 * [Ruby on Rails](#ruby-on-rails)
 * [Mobile](#mobile)
+* [Backend](#backend)
 
 ## Frontend
 
@@ -127,6 +128,12 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Android](https://github.com/JStumpp/awesome-android)
 * [iOS](https://github.com/vsouza/awesome-ios)
+
+## Backend
+
+### PHP
+
+* [Phalcon](https://github.com/sergeyklay/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources.
 
 # Related and useful
 
