@@ -155,6 +155,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Talks](#talks)
 * [MachineLearning](#machinelearning)
 * [Awesomes](#awesomes)
+* [Events](#events)
 
 ## Editors
 
@@ -190,4 +191,8 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Awesome Awesomes](https://github.com/fleveque/awesome-awesomes) - This one!! ;) Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language :D
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [Awesome Awesome](https://github.com/erichs/awesome-awesome) - A curated list of awesome curated lists! Inspired by inspiration
+
+## Events
+
+* [Awesome Meetup](https://github.com/SerCeMan/awesome-meetup)
 
