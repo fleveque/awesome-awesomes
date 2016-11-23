@@ -150,6 +150,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Editors](#editors)
 * [Environments](#environments)
 * [Internet of Things](#internet-of-things)
+* [Pentester](#pentester)
 * [Shell](#shell)
 * [SysAdmin](#sysadmin)
 * [Talks](#talks)
@@ -167,6 +168,10 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 ## Internet of Things
 
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
+
+## Pentester
+
+* [Awesome Pentester](https://github.com/m1guelpf/awesome-pentester)
 
 ## Shell
 
