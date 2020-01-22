@@ -184,6 +184,9 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software (by language).
 * [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - A curated list of graph embedding papers with implementations.
+* [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding papers with implementations.
+* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection papers with implementations.
 
 ## Awesomes
 
