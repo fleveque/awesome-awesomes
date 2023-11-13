@@ -187,6 +187,7 @@ Feel free to add new lists or categories! Remember, it's not mandatory that name
 * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - A curated list of graph embedding papers with implementations.
 * [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding papers with implementations.
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection papers with implementations.
+* [Awesome GPTs](https://github.com/taranjeet/awesome-gpts/) - A collection of all GPTs created by the community.
 
 ## Awesomes
 
